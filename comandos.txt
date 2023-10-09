@@ -1,0 +1,9 @@
+criar um esqueleto novo em c#
+    - dotnet new console
+
+rodar uma aplicação em c#
+    - dotnet run 'nome_do_arquivo'.cs
+
+
+@ - verbatim literal 
+    poder apresentar a string exatamente do jeito que voce colocou no código
